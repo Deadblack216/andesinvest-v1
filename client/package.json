@@ -1,7 +1,9 @@
 {
   "name": "client",
+  "private": true,
   "version": "1.0.0",
   "description": "andesinvest",
+  "type": "module",
   
   "scripts": {
     "dev": "vite",
